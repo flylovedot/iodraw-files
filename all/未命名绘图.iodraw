@@ -37,6 +37,9 @@
             <mxPoint x="410" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="aoSkB76jxEFuepbeJ0pE-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aoSkB76jxEFuepbeJ0pE-8" target="aoSkB76jxEFuepbeJ0pE-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aoSkB76jxEFuepbeJ0pE-8" value="&lt;span style=&quot;color: rgb(46, 47, 51); text-wrap-mode: nowrap; background-color: rgb(250, 250, 250);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;记录探放水过程&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="250" width="120" height="40" as="geometry" />
         </mxCell>
@@ -71,8 +74,10 @@
         <mxCell id="aoSkB76jxEFuepbeJ0pE-38" value="判断" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="320" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aoSkB76jxEFuepbeJ0pE-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aoSkB76jxEFuepbeJ0pE-39" target="aoSkB76jxEFuepbeJ0pE-34">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="aoSkB76jxEFuepbeJ0pE-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aoSkB76jxEFuepbeJ0pE-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="aoSkB76jxEFuepbeJ0pE-39" value="判断" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="460" y="315" width="100" height="50" as="geometry" />
