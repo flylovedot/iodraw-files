@@ -10,6 +10,9 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="语音识别" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="130" y="150" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="aoSkB76jxEFuepbeJ0pE-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="aoSkB76jxEFuepbeJ0pE-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="发出预警" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="290" y="310" width="120" height="60" as="geometry" />
         </mxCell>
@@ -68,8 +71,10 @@
         <mxCell id="aoSkB76jxEFuepbeJ0pE-34" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="300" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aoSkB76jxEFuepbeJ0pE-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aoSkB76jxEFuepbeJ0pE-38" target="aoSkB76jxEFuepbeJ0pE-34">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="aoSkB76jxEFuepbeJ0pE-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aoSkB76jxEFuepbeJ0pE-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="345" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="aoSkB76jxEFuepbeJ0pE-38" value="判断" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="320" width="100" height="50" as="geometry" />
