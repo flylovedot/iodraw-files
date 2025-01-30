@@ -48,9 +48,6 @@
             <mxPoint x="440" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aoSkB76jxEFuepbeJ0pE-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aoSkB76jxEFuepbeJ0pE-5" target="WIyWlLk6GJQsqaUBKTNV-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="aoSkB76jxEFuepbeJ0pE-5" value="记录探放水&lt;div&gt;工作进展&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="180" width="120" height="60" as="geometry" />
         </mxCell>
