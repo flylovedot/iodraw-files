@@ -49,8 +49,8 @@
             <mxPoint x="440" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aoSkB76jxEFuepbeJ0pE-8" value="记录探放水&lt;div&gt;工作进展&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="aoSkB76jxEFuepbeJ0pE-8" value="&lt;span style=&quot;color: rgb(46, 47, 51); font-family: Open-Sans, &amp;quot;sans-serif&amp;quot;; font-size: 16px; text-wrap-mode: nowrap; background-color: rgb(250, 250, 250);&quot;&gt;探放水过程是否满足要求&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
